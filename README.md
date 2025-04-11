@@ -2,8 +2,8 @@
 
 ## Our devs are good at :
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,cs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,robloxstudio,html,js,ts,cs,vue,nuxt,windows,linux,go,discord,net,lua,nginx)](https://skillicons.dev)
 
 ## And also code in :
 
-[![My Skills](https://skillicons.dev/icons?i=css,ts,cpp,c,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,cpp,c,py,bash,qt)](https://skillicons.dev)
